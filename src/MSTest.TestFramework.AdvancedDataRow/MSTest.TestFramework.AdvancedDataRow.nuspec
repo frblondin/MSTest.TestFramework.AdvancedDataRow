@@ -3,7 +3,7 @@
   <metadata>
     <id>MSTest.TestFramework.AdvancedDataRow</id>
     <version>$version$</version>
-    <title>Provides a data source for a data method, with the data coming from a property, a field, or a method (with parameters).</title>
+    <title>Advanced MSTest2 data sources</title>
     <authors>frblondin</authors>
     <owners>frblondin</owners>
     <licenseUrl>https://github.com/frblondin/MSTest.TestFramework.AdvancedDataRow/blob/master/LICENSE</licenseUrl>
