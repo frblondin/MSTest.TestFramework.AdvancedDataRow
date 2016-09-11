@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/frblondin/MSTest.TestFramework.AdvancedDataRow</projectUrl>
     <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Provides a data source for a data method, with the data coming from a property, a field, or a method (with parameters). Simply apply the MemberDataTestMethod and the MemberDataRows attributes on the method.</description>
+    <description>Provides a data source for a data method, with the data coming from a property, a field, a method (with parameters), a class, or simply inlined data. Simply apply the AdvancedDataTestMethod and MemberDataMethod/ClassData/InlineData attributes on the method.</description>
     <releaseNotes></releaseNotes>
     <copyright></copyright>
     <tags>MSTest TestFramework Microsoft Unittest</tags>
